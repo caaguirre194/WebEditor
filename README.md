@@ -1,5 +1,5 @@
 # WebEditor
-Este proyecto es un **Editor Web** estilo CODEPEN desarrollado para realizar pruebas 
+Este proyecto es un **Editor Web** estilo CODEPEN
 ## Editor:
  ![GitHub](/img/screenshot.jpg)
 
